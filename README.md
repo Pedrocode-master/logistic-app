@@ -1,12 +1,4 @@
-Perfeito. Vou te entregar uma versão **mais profissional**, limpa e sem referência ao Lovable, pronta para usar como `README.md` no GitHub.
 
-Você pode copiar e colar direto.
-
----
-
-## ✅ Versão Melhorada (sem Lovable)
-
-````md
 # Logistic App
 
 ## 📌 Project Information
