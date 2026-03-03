@@ -125,33 +125,6 @@ Developed by Pedro Lopes.
 
 GitHub: [https://github.com/Pedrocode-master](https://github.com/Pedrocode-master)
 
-```
-
----
-
-## 🎯 O que eu melhorei
-
-Essa versão agora:
-
-✅ Parece projeto profissional  
-✅ Serve pra portfólio  
-✅ Serve pra cliente  
-✅ Serve pra recrutador  
-✅ Não depende de plataforma externa  
-✅ Explica tudo que importa  
-
----
-
-## 📌 Próximo nível (opcional)
-
-Se quiser, depois a gente pode:
-
-✔ Adaptar isso para inglês + português  
-✔ Deixar versão para cliente  
-✔ Criar README comercial  
-✔ Criar README técnico
-
----
 
 Se quiser, eu também posso adaptar esse README especificamente pro seu projeto (logística, site institucional, sistema etc).
 ```
