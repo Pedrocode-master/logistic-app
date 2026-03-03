@@ -325,7 +325,7 @@ const MapboxTokenInput: React.FC<{ onTokenSet: (token: string) => void }> = ({ o
   const [token, setToken] = useState('');
   const [copied, setCopied] = useState(false);
   const { toast } = useToast();
-  const mapboxKey = process.env.VITE_MAPBOX_TOKEN;
+  const mapboxKey = import.meta.env.VITE_MAPBOX_TOKEN;
 
   const copyToClipboard = () => {
     navigator.clipboard.writeText(mapboxKey);
